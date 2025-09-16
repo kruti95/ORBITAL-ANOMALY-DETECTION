@@ -1,0 +1,13 @@
+
+<div style="font-family:system-ui,Segoe UI,Arial;margin:6px 0 12px 0;font-weight:600">Monthly Congestion Heatmap (150–500 km)</div>
+<table style="border-collapse:collapse;font-family:system-ui,Segoe UI,Arial">
+  <thead>
+    <tr>
+      <th style="padding:6px 10px;border:1px solid #ddd;text-align:left">Altitude Shell</th>
+      <th style='padding:6px 10px;border:1px solid #ddd;text-align:center'>2021-12</th><th style='padding:6px 10px;border:1px solid #ddd;text-align:center'>2022-01</th><th style='padding:6px 10px;border:1px solid #ddd;text-align:center'>2022-02</th><th style='padding:6px 10px;border:1px solid #ddd;text-align:center'>2022-03</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style='padding:6px 10px;border:1px solid #ddd;white-space:nowrap'>400–425 km</td><td style='padding:4px 8px;border:1px solid #ddd;text-align:center;background-color: rgb(255,255,224); color:black;'>1</td><td style='padding:4px 8px;border:1px solid #ddd;text-align:center;background-color: rgb(255,255,224); color:black;'>1</td><td style='padding:4px 8px;border:1px solid #ddd;text-align:center;background-color: rgb(255,255,224); color:black;'>1</td><td style='padding:4px 8px;border:1px solid #ddd;text-align:center;background-color: rgb(255,255,224); color:black;'>1</td></tr>
+  </tbody>
+</table>
